@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TravelerJoz
 - 👀 I’m interested in pets and engineering.
-- 🌱 I’m currently learning how to program.
+- 🌱 I’m currently learning how to program by taking the CS50x class.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
